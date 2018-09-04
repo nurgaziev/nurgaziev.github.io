@@ -1,0 +1,10 @@
+.video{
+	width: 950px;
+	height: 350px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-bottom: 6px solid #000000;
+}
+
+iframe{
+	margin-left: 200px;
